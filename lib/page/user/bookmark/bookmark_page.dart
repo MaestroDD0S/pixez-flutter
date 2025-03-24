@@ -93,8 +93,8 @@ class _BookmarkPageState extends State<BookmarkPage> {
               header: Container(
                 height: 45,
               ),
-            ),
-            buildTopChip(context)
+            )
+            //buildTopChip(context)
           ],
         );
       }
